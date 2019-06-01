@@ -48,37 +48,54 @@ table {
 }
 
 .logo{
-    padding: 10px;
+    padding: 12px;
+    display: block;
+    margin-left: 17%;
+    margin-right: auto;
+    display: inline-block;
 }
 
+
 .menu{
-    margin:0px;
+    margin:0px 0px;
     padding: 0px;
-    background-color: #fff;
+    background-color: #B3B6B7;
     list-style: none;
     height: 90px;
     text-align: center;
+    text-
     font-family: sans-serif;
     font-size: 18px;
+    
+   
+    
 
 }
 .menu ul li{
     display: inline;
     color: #666666;
+    text-align: center;
+ 
+
 }
 .menu ul li a{
-    padding: 12px 24px;
-    color: #F5F5F5;
+    padding: 12px 20px;
+    color: #000;
+    margin-bottom: 5px;
+    text-decoration: none;
+
 }
+
+
 
 .lista {
     margin: 0px;
     padding: 0px;
-    background-color: #A52A2A;
+    background-color: white;
     list-style: none;
     height: 85px;
     width: 60%;
-    text-align: center;
+    text-align: justify;
 }
 
 
